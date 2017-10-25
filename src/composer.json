@@ -1,0 +1,14 @@
+{
+    "name": "o.marko/calculator",
+    "description": "This demo package.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "olegmarko7",
+            "email": "olegmarko7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
