@@ -10,5 +10,13 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "OMarko\\Calculator\\": "src"
+        },
+        "classmap": [
+            "tests"
+        ]
+    }
 }
